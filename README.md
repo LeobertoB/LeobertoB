@@ -5,7 +5,7 @@ I currently work remotely as an Internal Auditor for a private company in Brazil
 - 👀 I’m interested in learning as much as I can to feel secure enough to land a job in tech here in Europe, so I can finally be able to enter this magnificent and promising area that, in the future, can be a
 "must" to all professionals that really want to evolve.
 
-- 🌱 I’m currently learning the Full-Stack Development path, focusing right now on JavaScript and its interaction with HTML, CSS and Nodejs.
+- 🌱 I’m currently learning the Full-Stack Development path in the bootcamp, and I'm also enrolled in an Artificial Intelligence Post Graduate Course in UTFPR (Universidade Tecnológica Federal do Paraná).
 
 - 💞️ I’m looking to collaborate on any event or project that I can possibly take to learn everyday more and more.
 
