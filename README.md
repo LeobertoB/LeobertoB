@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @LeobertoB, and I just started to learn how to code. It's my first steps, so I chose to create a freeCodeCamp account to have a general view of this new area. After some time, I joined Mate Academy
-Bootcamp to get my certification and evolve my learning process, together with some books that have been recommended to me. 
-I currently work remotely as an Internal Auditor for a private company in Brazil, but I live in Mantova, Italy with my wife and my daughter.
+- 👋 Hi, I’m @LeobertoB, and I am an Artificial Intelligence Developer at Hotelnet S.r.l, currently focusing on automating the company’s processes — from organizing internal sectors to generating business reports through AI agents that deliver valuable insights to our clients.  
+I work remotely from Mantova, Italy, while enjoying the close company of my wife and daughter.
 
-- 👀 I’m interested in learning as much as I can to feel secure enough to land a job in tech here in Europe, so I can finally be able to enter this magnificent and promising area that, in the future, can be a
-"must" to all professionals that really want to evolve.
+- 👀 I’m eager to learn as much as I can and master Machine Learning and the development of Artificial Intelligence solutions. I recently enrolled in an Honours Degree in Software Engineering & Artificial Intelligence at EPICODE. I have also completed a Post-Graduate Degree in Artificial Intelligence from UTFPR — Technological Federal University of Paraná, Brazil.
+  
+- 🌱 I’m currently developing my skills, especially in using AI workflows and creating Large Language Models to deliver top-quality code.
 
-- 🌱 I’m currently learning the Full-Stack Development path in the bootcamp, and I'm also enrolled in an Artificial Intelligence Post Graduate Course in UTFPR (Universidade Tecnológica Federal do Paraná).
-
-- 💞️ I’m looking to collaborate on any event or project that I can possibly take to learn everyday more and more.
+- 💞️ I’m looking to collaborate on any event or project that will help me keep learning and growing every day.
 
 - 📫 You can reach me through my e-mail address (leobittencourtfilho@gmail.com) or my LinkedIn page (https://www.linkedin.com/in/leoberto-bittencourt-filho-960182163/).
 
